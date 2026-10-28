@@ -1,0 +1,5 @@
+interface:
+  display_name: "Create Homework Sheet"
+  short_description: "Create illustrated A4 student homework PDFs"
+  default_prompt: "Use $homework\-homework-sheet to turn these questions into a student homework PDF."
+

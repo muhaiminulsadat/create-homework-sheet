@@ -1,0 +1,91 @@
+{
+  "title": "Friction Homework Practice",
+  "subtitle": "HSC Physics 1st Paper | Newtonian Mechanics",
+  "copy_label": "",
+  "footer_note": "Draw a free-body diagram first, then solve.",
+  "banner_icon": "block",
+  "formula_title": "Quick Formula Box",
+  "formulas": [
+    {
+      "label": "Static friction",
+      "expr": "f_{s,max} = μ_{s} × R"
+    },
+    {
+      "label": "Kinetic friction",
+      "expr": "f_{k} = μ_{k} × R"
+    },
+    {
+      "label": "Newton’s second law",
+      "expr": "F = ma"
+    },
+    {
+      "label": "Note",
+      "expr": "μ_{k} < μ_{s}"
+    },
+    {
+      "expr": "Use g = 9.8 m/s² where needed."
+    }
+  ],
+  "questions": [
+    {
+      "text": "A 1000 kg airplane flies in a straight line at constant speed. The air friction on it is 1800 N. What is the net force on the airplane?",
+      "tag": "BUET'11-12",
+      "difficulty": "Easy",
+      "icon": "plane"
+    },
+    {
+      "text": "A horizontal push of at least 200 N is needed to start moving an 800 N object that is at rest on a horizontal floor. What is the coefficient of static friction?",
+      "tag": "IUT'17-18",
+      "difficulty": "Easy",
+      "icon": "box"
+    },
+    {
+      "text": "A 10 kg object falls while the air resistance on it is 78 N. What is its acceleration?",
+      "tag": "RUET'14-15",
+      "difficulty": "Easy",
+      "icon": "fall"
+    },
+    {
+      "text": "A 2.0 kg jackfruit falls from a tree with a downward acceleration of 5.5 m/s². What is the air resistance in newtons? (g = 9.8 m/s²)",
+      "tag": "BUTEX'11-12",
+      "difficulty": "Easy",
+      "icon": "jackfruit"
+    },
+    {
+      "text": "The coefficient of static friction between a 1000 kg car's tyres and the road is 0.8. What is the steepest slope on which the car can stay at rest without sliding back?",
+      "tag": "BUET'00-01",
+      "difficulty": "Medium",
+      "icon": "incline"
+    },
+    {
+      "text": "An object slides along the ground at 36 km/h and finally stops. The coefficient of friction between the object and the ground is 0.2. Find the distance it covers before stopping.",
+      "tag": "BUET'09-10",
+      "difficulty": "Medium",
+      "icon": "slide"
+    },
+    {
+      "text": "A 0.5 kg football rolls across a field and stops after travelling 50 m. Its initial speed was 30 m/s. What is the friction force?",
+      "tag": "KUET'05-06",
+      "difficulty": "Medium",
+      "icon": "football"
+    },
+    {
+      "text": "The coefficient of static friction between a 1000 kg car's tyres and the road is 0.10, and the coefficient of kinetic friction is 0.04. What is the minimum force needed to start the stationary car moving? How much extra force is needed to give the car an acceleration of 2 m/s²?",
+      "tag": "BUET'01-02",
+      "difficulty": "Hard",
+      "icon": "roadcar"
+    },
+    {
+      "text": "A 500 kg car moves at 60 km/h. The brakes are applied and the car stops after 50 m. If the road friction is 100 N, what is the braking force?",
+      "tag": "SUST'14-15, KUET'10-11",
+      "difficulty": "Hard",
+      "icon": "brake"
+    },
+    {
+      "text": "An 8 kg object falls from a height of 10 m onto sand. It penetrates 50 cm into the sand and stops. Find the average resistance force of the sand on the object.",
+      "tag": "BUET'05-06",
+      "difficulty": "Hard",
+      "icon": "sand"
+    }
+  ]
+}
